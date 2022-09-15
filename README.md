@@ -18,7 +18,7 @@ The two images below are examples of the webpages the program visits.
 
 ## Results
 
-Once the video titles were scraped, a wordcloud was constructed in Python. Here is an example created on August 30th, 2022. The most common words were "short" and "song", along with phrases such as "nursery rhymes".
+Once the video titles were scraped, a wordcloud was constructed in Python. Here is an example created on September 14th, 2022. The most common words were "short" and "song", along with phrases such as "nursery rhymes".
 
 ![wordcloud](images/word_cloud_9_14.png)
 
